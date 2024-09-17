@@ -1,0 +1,266 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Witcher",
+      "description": "A monster hunter with superhuman abilities travels through a fantasy world.",
+      "releaseDate": "2019-12-20",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "rating": 8.2,
+      "poster": "https://example.com/the-witcher.jpg",
+      "trailer": "https://example.com/the-witcher-trailer.mp4"
+    },
+    {
+      "id": "2",
+      "title": "Inception",
+      "description": "A thief who enters the dreams of others to steal secrets from their subconscious.",
+      "releaseDate": "2010-07-16",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "rating": 8.8,
+      "poster": "https://example.com/inception.jpg",
+      "trailer": "https://example.com/inception-trailer.mp4"
+    },
+    {
+      "id": "3",
+      "title": "The Matrix",
+      "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+      "releaseDate": "1999-03-31",
+      "genres": ["Action", "Sci-Fi"],
+      "rating": 8.7,
+      "poster": "https://example.com/the-matrix.jpg",
+      "trailer": "https://example.com/the-matrix-trailer.mp4"
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "description": "Batman faces the Joker, a criminal mastermind who seeks to create chaos in Gotham City.",
+      "releaseDate": "2008-07-18",
+      "genres": ["Action", "Crime", "Drama"],
+      "rating": 9.0,
+      "poster": "https://example.com/the-dark-knight.jpg",
+      "trailer": "https://example.com/the-dark-knight-trailer.mp4"
+    },
+    {
+      "id": "5",
+      "title": "Interstellar",
+      "description": "A group of explorers travels through a wormhole in space to ensure humanity's survival.",
+      "releaseDate": "2014-11-07",
+      "genres": ["Adventure", "Drama", "Sci-Fi"],
+      "rating": 8.6,
+      "poster": "https://example.com/interstellar.jpg",
+      "trailer": "https://example.com/interstellar-trailer.mp4"
+    },
+    {
+      "id": "6",
+      "title": "Joker",
+      "description": "The origin story of the iconic villain, exploring the descent into madness of Arthur Fleck.",
+      "releaseDate": "2019-10-04",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "rating": 8.4,
+      "poster": "https://example.com/joker.jpg",
+      "trailer": "https://example.com/joker-trailer.mp4"
+    },
+    {
+      "id": "7",
+      "title": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission.",
+      "releaseDate": "2009-12-18",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "rating": 7.8,
+      "poster": "https://example.com/avatar.jpg",
+      "trailer": "https://example.com/avatar-trailer.mp4"
+    },
+    {
+      "id": "8",
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "The final battle for Middle-earth begins as Frodo and Sam approach Mount Doom.",
+      "releaseDate": "2003-12-17",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "rating": 8.9,
+      "poster": "https://example.com/return-of-the-king.jpg",
+      "trailer": "https://example.com/return-of-the-king-trailer.mp4"
+    },
+    {
+      "id": "9",
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine.",
+      "releaseDate": "1994-10-14",
+      "genres": ["Crime", "Drama"],
+      "rating": 8.9,
+      "poster": "https://example.com/pulp-fiction.jpg",
+      "trailer": "https://example.com/pulp-fiction-trailer.mp4"
+    },
+    {
+      "id": "10",
+      "title": "The Shawshank Redemption",
+      "description": "A banker is wrongly imprisoned for the murder of his wife and her lover, and finds hope in the darkest of places.",
+      "releaseDate": "1994-09-23",
+      "genres": ["Drama"],
+      "rating": 9.3,
+      "poster": "https://example.com/shawshank-redemption.jpg",
+      "trailer": "https://example.com/shawshank-redemption-trailer.mp4"
+    },
+    {
+      "id": "11",
+      "title": "Gladiator",
+      "description": "A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+      "releaseDate": "2000-05-05",
+      "genres": ["Action", "Adventure", "Drama"],
+      "rating": 8.5,
+      "poster": "https://example.com/gladiator.jpg",
+      "trailer": "https://example.com/gladiator-trailer.mp4"
+    },
+    {
+      "id": "12",
+      "title": "Guardians of the Galaxy",
+      "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+      "releaseDate": "2014-08-01",
+      "genres": ["Action", "Adventure", "Comedy"],
+      "rating": 8.0,
+      "poster": "https://example.com/guardians-of-the-galaxy.jpg",
+      "trailer": "https://example.com/guardians-of-the-galaxy-trailer.mp4"
+    },
+    {
+      "id": "13",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "description": "Teenager Miles Morales becomes Spider-Man of his reality, crossing paths with his counterparts from other dimensions.",
+      "releaseDate": "2018-12-14",
+      "genres": ["Animation", "Action", "Adventure"],
+      "rating": 8.4,
+      "poster": "https://example.com/spider-man-into-the-spider-verse.jpg",
+      "trailer": "https://example.com/spider-man-into-the-spider-verse-trailer.mp4"
+    },
+    {
+      "id": "14",
+      "title": "The Social Network",
+      "description": "The story of the founding of Facebook and the legal battles that followed.",
+      "releaseDate": "2010-10-01",
+      "genres": ["Biography", "Drama"],
+      "rating": 7.7,
+      "poster": "https://example.com/the-social-network.jpg",
+      "trailer": "https://example.com/the-social-network-trailer.mp4"
+    }
+  ],
+  "series": [
+    {
+      "id": "1",
+      "title": "Stranger Things",
+      "description": "A group of kids uncover a series of supernatural mysteries in their small town.",
+      "releaseDate": "2016-07-15",
+      "genres": ["Drama", "Fantasy", "Horror"],
+      "rating": 8.7,
+      "poster": "https://example.com/stranger-things.jpg",
+      "trailer": "https://example.com/stranger-things-trailer.mp4"
+    },
+    {
+      "id": "2",
+      "title": "Breaking Bad",
+      "description": "A high school chemistry teacher turned methamphetamine producer.",
+      "releaseDate": "2008-01-20",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "rating": 9.5,
+      "poster": "https://example.com/breaking-bad.jpg",
+      "trailer": "https://example.com/breaking-bad-trailer.mp4"
+    },
+    {
+      "id": "3",
+      "title": "Money Heist",
+      "description": "A criminal mastermind plans the biggest heist in history.",
+      "releaseDate": "2017-05-02",
+      "genres": ["Action", "Crime", "Drama"],
+      "rating": 8.3,
+      "poster": "https://example.com/money-heist.jpg",
+      "trailer": "https://example.com/money-heist-trailer.mp4"
+    },
+    {
+      "id": "4",
+      "title": "The Crown",
+      "description": "The reign of Queen Elizabeth II, detailing the personal and political events that shaped the latter half of the 20th century.",
+      "releaseDate": "2016-11-04",
+      "genres": ["Biography", "Drama", "History"],
+      "rating": 8.6,
+      "poster": "https://example.com/the-crown.jpg",
+      "trailer": "https://example.com/the-crown-trailer.mp4"
+    },
+    {
+      "id": "5",
+      "title": "The Witcher",
+      "description": "A monster hunter with superhuman abilities travels through a fantasy world.",
+      "releaseDate": "2019-12-20",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "rating": 8.2,
+      "poster": "https://example.com/the-witcher.jpg",
+      "trailer": "https://example.com/the-witcher-trailer.mp4"
+    },
+    {
+      "id": "6",
+      "title": "Fargo",
+      "description": "Various chronicles of deception, intrigue, and murder in and around Minnesota.",
+      "releaseDate": "2014-04-15",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "rating": 8.9,
+      "poster": "https://example.com/fargo.jpg",
+      "trailer": "https://example.com/fargo-trailer.mp4"
+    },
+    {
+      "id": "7",
+      "title": "Black Mirror",
+      "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+      "releaseDate": "2011-12-04",
+      "genres": ["Drama", "Sci-Fi", "Thriller"],
+      "rating": 8.8,
+      "poster": "https://example.com/black-mirror.jpg",
+      "trailer": "https://example.com/black-mirror-trailer.mp4"
+    },
+    {
+      "id": "8",
+      "title": "The Mandalorian",
+      "description": "The adventures of a lone bounty hunter in the outer reaches of the galaxy.",
+      "releaseDate": "2019-11-12",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "rating": 8.7,
+      "poster": "https://example.com/the-mandalorian.jpg",
+      "trailer": "https://example.com/the-mandalorian-trailer.mp4"
+    },
+    {
+      "id": "9",
+      "title": "The Office",
+      "description": "A mockumentary on a group of typical office workers, documenting their lives as they try to get through the workday.",
+      "releaseDate": "2005-03-24",
+      "genres": ["Comedy", "Drama"],
+      "rating": 8.9,
+      "poster": "https://example.com/the-office.jpg",
+      "trailer": "https://example.com/the-office-trailer.mp4"
+    },
+    {
+      "id": "10",
+      "title": "Westworld",
+      "description": "A futuristic amusement park with robotic hosts caters to rich guests who can live out their fantasies.",
+      "releaseDate": "2016-10-02",
+      "genres": ["Drama", "Sci-Fi", "Thriller"],
+      "rating": 8.5,
+      "poster": "https://example.com/westworld.jpg",
+      "trailer": "https://example.com/westworld-trailer.mp4"
+    },
+    {
+      "id": "11",
+      "title": "Narcos",
+      "description": "The true story of the rise and fall of Pablo Escobar and the Medellin drug cartel.",
+      "releaseDate": "2015-08-28",
+      "genres": ["Biography", "Crime", "Drama"],
+      "rating": 8.8,
+      "poster": "https://example.com/narcos.jpg",
+      "trailer": "https://example.com/narcos-trailer.mp4"
+    },
+    {
+      "id": "12",
+      "title": "Ozark",
+      "description": "A financial planner relocates his family to the Ozarks after a money-laundering scheme goes wrong.",
+      "releaseDate": "2017-07-21",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "rating": 8.4,
+      "poster": "https://example.com/ozark.jpg",
+      "trailer": "https://example.com/ozark-trailer.mp4"
+    }
+  ]
+}
